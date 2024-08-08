@@ -20,6 +20,8 @@ Aqí podras observar todo lo utilizado para desarrollar el proyecto:
 
 ![alt text](cmd-1-1.png)
 
+Al inicio podrás ver 6 archivos [json], [farmacia.py] y [README.md].
+
 ## Caracteristícas 
 
 * Archivo [farmacia.py]:Consta del código principal del proyecto.
